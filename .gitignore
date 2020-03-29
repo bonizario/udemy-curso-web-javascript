@@ -3,6 +3,9 @@ node_modules
 .pnp
 .pnp.js
 
+#vscode config
+exercicios-web.code-workspace
+
 # testing
 /coverage
 
